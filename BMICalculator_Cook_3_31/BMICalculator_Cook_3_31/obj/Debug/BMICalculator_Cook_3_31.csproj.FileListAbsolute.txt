@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\Visual Studio 2012\Projects\BMICalculator_Cook_3_31\bin\Debug\BMICalculator_Cook_3_31.exe.config
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\bin\Debug\BMICalculator_Cook_3_31.exe.config
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\bin\Debug\BMICalculator_Cook_3_31.exe
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\bin\Debug\BMICalculator_Cook_3_31.pdb
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\obj\Debug\BMICalculator_Cook_3_31.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\obj\Debug\BMICalculator_Cook_3_31.exe
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\BMICalculator_Cook_3_31\BMICalculator_Cook_3_31\obj\Debug\BMICalculator_Cook_3_31.pdb
