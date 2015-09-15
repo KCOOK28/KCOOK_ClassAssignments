@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.exe.config
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.exe
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.pdb
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.exe
+c:\users\student\documents\visual studio 2013\Projects\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\bin\Debug\CookExcersise3_15.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\CookExcersise3_15\CookExcersise3_15\obj\Debug\CookExcersise3_15.csprojResolveAssemblyReference.cache
