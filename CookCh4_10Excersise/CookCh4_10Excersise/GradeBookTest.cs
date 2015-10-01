@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Grade 9/10 - No Comments
 public class GradeBookTest
 {
     public static void Main(String[] args)
