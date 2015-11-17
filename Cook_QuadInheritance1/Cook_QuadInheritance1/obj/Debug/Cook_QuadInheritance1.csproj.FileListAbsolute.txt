@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\bin\Debug\Cook_QuadInheritance1.exe.config
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\obj\Debug\Cook_QuadInheritance1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\bin\Debug\Cook_QuadInheritance1.exe
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\bin\Debug\Cook_QuadInheritance1.pdb
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\obj\Debug\Cook_QuadInheritance1.exe
+c:\users\student\documents\visual studio 2013\Projects\Cook_QuadInheritance1\Cook_QuadInheritance1\obj\Debug\Cook_QuadInheritance1.pdb

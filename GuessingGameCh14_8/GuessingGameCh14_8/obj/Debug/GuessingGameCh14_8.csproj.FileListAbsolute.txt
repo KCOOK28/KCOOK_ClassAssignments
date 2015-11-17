@@ -1,0 +1,8 @@
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.exe.config
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.exe
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.pdb
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.Form1.resources
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.Properties.Resources.resources
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.csproj.GenerateResource.Cache
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.exe
+C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.pdb
