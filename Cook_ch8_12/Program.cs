@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade 9 out of 10
+//Missing requirements
+//Write an app that inputs 5 numbers, your app accept inputs until there are 5 unique inputs, this would be a bug
+//Use the smallest array possible, the array only needs to hold 4 values because the 5th is the last value and can therefore be output without being stored in the array.
 namespace Cook_Ch8_12
 {
     class Program
