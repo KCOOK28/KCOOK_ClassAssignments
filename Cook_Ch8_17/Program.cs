@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 10/10 nice job
 namespace Cook_Ch8_17
 {
     class Program

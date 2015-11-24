@@ -6,3 +6,12 @@ C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\
 C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.csproj.GenerateResource.Cache
 C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.exe
 C:\Documents\Visual Studio 2012\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\bin\Debug\GuessingGameCh14_8.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.Form1.resources
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.Properties.Resources.resources
+C:\Users\April\Documents\SSC\COP2360\Repositories\Kevin\KCOOK_ClassAssignments\GuessingGameCh14_8\GuessingGameCh14_8\obj\Debug\GuessingGameCh14_8.csproj.GenerateResource.Cache
