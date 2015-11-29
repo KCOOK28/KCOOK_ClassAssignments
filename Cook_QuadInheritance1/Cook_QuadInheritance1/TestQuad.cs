@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 10
 namespace Cook_QuadInheritance1
 {
     class TestQuad
