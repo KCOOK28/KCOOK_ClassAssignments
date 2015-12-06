@@ -2,6 +2,9 @@
 // Employee hierarchy test program.
 using System;
 
+//Grade: 8.9
+//Missing Requirements
+//The program  does not add a bonus for the BasePlusCommisionEmployee
 namespace PayrollSystemTest
 {
     public class PayrollSystemTest
