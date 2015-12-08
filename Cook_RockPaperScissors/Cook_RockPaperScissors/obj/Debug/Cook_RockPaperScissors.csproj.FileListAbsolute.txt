@@ -1,0 +1,19 @@
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.exe.config
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.pdb
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.Form1.resources
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.Properties.Resources.resources
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.pdb
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.exe.config
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.exe
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.pdb
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.exe
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\bin\Debug\Cook_RockPaperScissors.pdb
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.frmMain.resources
+C:\Users\Kevin\Desktop\Kevin\Program Projects\C# Programs\Cook_RockPaperScissors\Cook_RockPaperScissors\obj\Debug\Cook_RockPaperScissors.Bonuses.resources
