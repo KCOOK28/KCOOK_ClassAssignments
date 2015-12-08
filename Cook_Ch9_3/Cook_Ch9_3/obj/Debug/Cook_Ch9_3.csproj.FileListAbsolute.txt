@@ -1,0 +1,6 @@
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\bin\Debug\Cook_Ch9_3.exe.config
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\obj\Debug\Cook_Ch9_3.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\bin\Debug\Cook_Ch9_3.exe
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\bin\Debug\Cook_Ch9_3.pdb
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\obj\Debug\Cook_Ch9_3.exe
+C:\Documents\Visual Studio 2012\Cook_Ch9_3\Cook_Ch9_3\obj\Debug\Cook_Ch9_3.pdb
