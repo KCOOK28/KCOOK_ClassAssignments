@@ -16,3 +16,4 @@ C:\Users\KCOOK28\Desktop\KCOOK_ClassAssignments\Cook_Ch12_11\PayrollSystemTest\o
 C:\Users\KCOOK28\Desktop\KCOOK_ClassAssignments\Cook_Ch12_11\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
 C:\Users\KCOOK28\Desktop\KCOOK_ClassAssignments\Cook_Ch12_11\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
 C:\Users\KCOOK28\Desktop\KCOOK_ClassAssignments\Cook_Ch12_11\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\Users\KCOOK28\Desktop\KCOOK_ClassAssignments\Cook_Ch12_11\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache

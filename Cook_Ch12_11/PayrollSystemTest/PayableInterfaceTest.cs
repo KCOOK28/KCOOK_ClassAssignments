@@ -9,7 +9,7 @@ namespace PayrollSystemTest
     {
         public static void Main(string[] args)
         {
-            IPayable[] payableObjects = new IPayable[6];
+            IPayable[] payableObjects = new IPayable[7];
 
             payableObjects[0] = new Invoice("01234", "seat", 2, 375.00M );
             payableObjects[1] = new Invoice("56789", "tire", 4, 79.95M);
@@ -21,6 +21,7 @@ namespace PayrollSystemTest
                 "777-77-7777", 1800.00M, .75M);
             payableObjects[5] = new BasePlusCommissionEmployee("Grant", "Brick",
                 "555-55-5555", 5000.00M, .5M, 80000.00M);
+            payableObjects[6] = new PieceWorker("Greg", "Jones", "999-99-999", 80.00M, 800.00M);
 
 
             Console.Write(
